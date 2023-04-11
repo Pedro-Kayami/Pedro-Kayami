@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Estou atualmente trabalhando na Nexum Tecnologia como desenolvedor Junior 
+- 🔭 Estou atualmente trabalhando na Nexum Tecnologia como desenvolvedor Junior 
 - 🌱 Estou aprendendo Java,JavaScript,PHP,Mysql,JQuery,Node.js.
 - 🤔 Procuro ajuda para aprender mais sobre desenvolvimento de jogos e sobre as linguages que estou aprendendo
-- 📫 Pode entrar em contato pelo: (14) 996676881 Celular ou pedro.k.franchini@gmail.com
 - ⚡ Fun fact: Estou sempre disposto a aprender e ser ensinado a fazer novas coisas
 
 <div>
