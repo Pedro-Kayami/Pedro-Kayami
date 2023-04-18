@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github.com/Pedro-Kayami/Pedro-Kayami/blob/output/github-contribution-grid-snake.svg">
+  ![Snake animation](https://github.com/Pedro-Kayami/Pedro-Kayami/output/git-contribution-grif-snake.svg)
 </div>
