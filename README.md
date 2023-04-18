@@ -32,6 +32,6 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/pedro-kayami-54b777246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div>
-  ![Snake animation](https://github.com/Pedro-Kayami/Pedro-Kayami/blob/output/github-contribution-grid-snake.svg")
+<div align="center">
+  <img src="https://github.com/Pedro-Kayami/Pedro-Kayami/blob/output/github-contribution-grid-snake.svg">
 </div>
