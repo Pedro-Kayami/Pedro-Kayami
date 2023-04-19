@@ -5,8 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedro-Kayami" alt="Pedro-Kayami" /> </p>
-- 🔭 Estou atualmente trabalhando na Nexum Tecnologia como desenvolvedor Junior 
+<div align="left">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedro-Kayami" alt="Pedro-Kayami" /> </p>
+</div>
+
+- 🔭 Estou atualmente trabalhando na Nexum Tecnologia como desenvolvedor Junior<br>
 - 🌱 Estou aprendendo Java,JavaScript,PHP,Mysql,JQuery,Node.js.
 - 🤔 Procuro ajuda para aprender mais sobre desenvolvimento de jogos e sobre as linguages que estou aprendendo
 - ⚡ Fun fact: Estou sempre disposto a aprender e ser ensinado a fazer novas coisas
