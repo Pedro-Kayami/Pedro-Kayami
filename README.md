@@ -10,10 +10,18 @@ Here are some ideas to get you started:
 </div>
 
 - 🔭 Estou atualmente trabalhando na Nexum Tecnologia como desenvolvedor Junior<br>
+- 🚀 Aprendendo sobre maior Organização e desenvolvimento no método SCRUM.
 - 🌱 Estou aprendendo Java,JavaScript,PHP,Mysql,JQuery,Node.js.
 - 🤔 Procuro ajuda para aprender mais sobre desenvolvimento de jogos e sobre as linguages que estou aprendendo
 - ⚡ Fun fact: Estou sempre disposto a aprender e ser ensinado a fazer novas coisas
 
+## Ferramentas de Desenvolvimento
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=2C2255)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+  
 <div align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Pedro-Kayami&show_icons=true&theme=radical"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Kayami&layout=compact&langs_count=16&theme=radical"/>
@@ -28,6 +36,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Kaka-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaka-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kaka-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
 </div>
 <hr>
 
