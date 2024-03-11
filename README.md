@@ -1,4 +1,4 @@
-### Olá sou o Pedro Kayami
+### Hello, I’m Pedro Kayami.
 
 <!--
 **Pedro-Kayami/Pedro-Kayami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
