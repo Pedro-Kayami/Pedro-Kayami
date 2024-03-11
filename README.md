@@ -9,13 +9,13 @@ Here are some ideas to get you started:
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedro-Kayami" alt="Pedro-Kayami" /> </p>
 </div>
 
-- 🔭 Estou atualmente trabalhando na Nexum Tecnologia como desenvolvedor Junior<br>
-- 🚀 Aprendendo sobre maior Organização e desenvolvimento no método SCRUM.
-- 🌱 Estou aprendendo Java,JavaScript,PHP,Mysql,JQuery,Node.js.
-- 🤔 Procuro ajuda para aprender mais sobre desenvolvimento de jogos e sobre as linguages que estou aprendendo
-- ⚡ Fun fact: Estou sempre disposto a aprender e ser ensinado a fazer novas coisas
+🔭 I am currently working at Nexum Tecnologia as a Junior developer.
+🚀 Learning about better organization and development using the SCRUM method.
+🌱 I am learning Java, JavaScript, PHP, MySQL, jQuery, and Node.js.
+🤔 I seek help to learn more about game development and the languages I am studying.
+⚡ Fun fact: I am always eager to learn and be taught new things.
 
-## Ferramentas de Desenvolvimento
+## Development Tools
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=2C2255)
