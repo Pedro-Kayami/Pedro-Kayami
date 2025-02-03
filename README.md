@@ -9,9 +9,9 @@ Here are some ideas to get you started:
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedro-Kayami" alt="Pedro-Kayami" /> </p>
 </div>
 
-🔭 I am currently working at Nexum Tecnologia as a Junior developer.<br>
+🔭 Currently working at Nexum Tecnologia as a Mid-Level Developer.<br>
 🚀 Learning about better organization and development using the SCRUM method.<br>
-🌱 I am learning Java, JavaScript, PHP, MySQL, jQuery, and Node.js.<br>
+🌱 Proficient in Java, Spring Boot, .NET, Docker, Node.js, and TypeScript. Currently enhancing my skills in React and Vue.js.<br>
 🤔 I seek help to learn more about game development and the languages I am studying.<br>
 ⚡ Fun fact: I am always eager to learn and be taught new things.<br>
 
